@@ -74,7 +74,7 @@ function ChatView() {
       <div className="ai-demo-chat">
         {state.messages.length === 0 && (
           <div className="ai-demo-empty">
-            <AIAvatar role="assistant" size="lg" status="online" />
+            <div className="empty-icon">✨</div>
             <p>Start a conversation with me!</p>
           </div>
         )}

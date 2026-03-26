@@ -58,3 +58,37 @@
 | ThinkingIndicator | AI 思考动画            | ✅   |
 | AIAvatar          | 头像组件               | ✅   |
 | MessageInput      | 输入框                 | ✅   |
+
+## 前端 UI 技能
+
+本项目配置了以下前端 UI 开发技能，位于 `.claude/skills/` 目录：
+
+| 技能                      | 用途                   | 使用场景                         |
+| ------------------------- | ---------------------- | -------------------------------- |
+| `frontend-ui-ux-engineer` | 前端 UI/UX 全能工程师  | 整体布局、交互设计、用户体验优化 |
+| `frontend-design`         | 前端设计原则和最佳实践 | 设计规范、配色、排版             |
+| `tailwindcss-animations`  | Tailwind CSS 动画      | 实用动画、过渡效果               |
+| `framer-motion-animator`  | Framer Motion 动画     | 复杂交互动画、页面转场           |
+| `animation-designer`      | 动画设计原理           | 动画节奏、力学曲线、用户体验     |
+| `shadcn-ui`               | shadcn/ui 组件集成     | 组件实现、样式复用               |
+
+### 使用方法
+
+遇到 UI/样式相关问题时，可调用对应技能：
+
+```
+/frontend-ui-ux-engineer - 复杂 UI 布局和交互
+/frontend-design - 设计规范和美学
+/framer-motion-animator - 复杂动画实现
+/tailwindcss-animations - CSS 动画快速实现
+/shadcn-ui - 组件库集成
+/animation-designer - 动画原理和创意
+```
+
+### 卡点沉淀
+
+遇到卡点时：
+
+1. 先调用相关技能获取指导
+2. 如无法解决，向用户求助
+3. 解决方案沉淀到 AGENTS.md 或此处

@@ -20,7 +20,18 @@
       "Bash(git config:*)",
       "Bash(git reset:*)",
       "Bash(git push)",
-      "Bash(git remote set-url:*)"
+      "Bash(git remote set-url:*)",
+      "Bash(__NEW_LINE_81abb78a90de9b5a__ git commit -m \"$\\(cat <<''EOF''\nrefactor: 将 CSS 迁移到 SCSS\n\n- 重命名所有 .css 文件为 .scss\n- 更新所有样式引用\n- 添加 sass 作为 devDependency\nEOF\n\\)\")",
+      "Bash(__NEW_LINE_81abb78a90de9b5a__ mv /tmp/pre-commit.bak /Users/bytedance/dano/viteplustest/.vite-hooks/pre-commit)",
+      "Bash(npx:*)",
+      "Bash(mv .vite-hooks/_ .vite-hooks/_disabled)",
+      "Bash(mv .vite-hooks/_disabled .vite-hooks/_)",
+      "Bash(git restore:*)",
+      "Bash(./node_modules/.bin/oxlint --help)",
+      "Bash(git stash:*)",
+      "Bash(git checkout:*)",
+      "Bash(./node_modules/.bin/oxfmt --help)",
+      "Bash(./node_modules/.pnpm/oxfmt@0.42.0/node_modules/oxfmt/bin/oxfmt --help)"
     ]
   }
 }
