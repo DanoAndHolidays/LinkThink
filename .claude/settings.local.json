@@ -31,7 +31,8 @@
       "Bash(git stash:*)",
       "Bash(git checkout:*)",
       "Bash(./node_modules/.bin/oxfmt --help)",
-      "Bash(./node_modules/.pnpm/oxfmt@0.42.0/node_modules/oxfmt/bin/oxfmt --help)"
+      "Bash(./node_modules/.pnpm/oxfmt@0.42.0/node_modules/oxfmt/bin/oxfmt --help)",
+      "Skill(browser-automation)"
     ]
   }
 }

@@ -1,10 +1,25 @@
 {
   "version": 1,
   "skills": {
+    "android-device-automation": {
+      "source": "web-infra-dev/midscene-skills",
+      "sourceType": "github",
+      "computedHash": "fd8bc2d6fb6f5cbb4d2067bc9465df6b9ec3f39fd5e261216bda32ee9e635223"
+    },
     "animation-designer": {
       "source": "daffy0208/ai-dev-standards",
       "sourceType": "github",
       "computedHash": "9ba671b12ed4102af35847c6b9edd29f4036a89fdba32901c7854b79c57e1561"
+    },
+    "browser-automation": {
+      "source": "web-infra-dev/midscene-skills",
+      "sourceType": "github",
+      "computedHash": "c701c4f3ab0c89d2ccff9e3e4f73a19c64ba166d3b8ec6e0c51b299387ba0c1a"
+    },
+    "desktop-computer-automation": {
+      "source": "web-infra-dev/midscene-skills",
+      "sourceType": "github",
+      "computedHash": "ab451fd20f5863af336fdc8b47f8d81b3fb3f0624aab55e83076505b7b4d2186"
     },
     "framer-motion-animator": {
       "source": "patricio0312rev/skills",
@@ -21,6 +36,16 @@
       "sourceType": "github",
       "computedHash": "074176a7c86baeea322124c5d3dd0104561d752ca408ff994ae742b61c19ca66"
     },
+    "harmonyos-device-automation": {
+      "source": "web-infra-dev/midscene-skills",
+      "sourceType": "github",
+      "computedHash": "02062994ddff7e5c6c1f9b88eba27403e5992126d47cd710a082fa9f8400a55f"
+    },
+    "ios-device-automation": {
+      "source": "web-infra-dev/midscene-skills",
+      "sourceType": "github",
+      "computedHash": "ab32ca8c272133675e8622c8b21ef9da0e3600489856c946ce54a089c3d2b5e9"
+    },
     "shadcn-ui": {
       "source": "existential-birds/beagle",
       "sourceType": "github",
@@ -30,6 +55,11 @@
       "source": "josiahsiegel/claude-plugin-marketplace",
       "sourceType": "github",
       "computedHash": "a3ff1c497a4c106d83f2342b30569257bbde3d12a40dde21b84ff693e3767bf0"
+    },
+    "vitest-midscene-e2e": {
+      "source": "web-infra-dev/midscene-skills",
+      "sourceType": "github",
+      "computedHash": "7f0f394621b4df765b772a6e20e352aeba2d31ff7712cfd35f914bb471d52f71"
     }
   }
 }
